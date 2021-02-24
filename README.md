@@ -19,6 +19,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=takikuba&repo=Nonograms)](https://github.com/takikuba/Nonograms.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=takikuba&repo=JS_BattleShip)](https://github.com/takikuba/JS_BattleShip.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=takikuba&repo=WDPAI)](https://github.com/takikuba/WDPAI.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=takikuba&repo=Calculator)](https://github.com/takikuba/Calculator.git)
 
 
 <br />
@@ -33,10 +35,9 @@
         <a href="https://github.com/takikuba/github-readme-stats/actions">
           <img alt="takikuba's github stats" src="https://github-readme-stats-gaurav.vercel.app/api?username=takikuba&show_icons=true&title_color=4078c0&icon_color=6cc644&text_color=333&bg_color=f5f5f5"/>
         </a>
-      </b>
-    </div>
+        </br>
+        <a href="https://github.com/takikuba/github-readme-stats/actions">
+          <img alt="takikuba's github stats" src=https://github-readme-stats.vercel.app/api/top-langs/?username=takikuba&theme=white"/>
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=takikuba&theme=white)
-  </div>
-  
+  </b>
  </details>
