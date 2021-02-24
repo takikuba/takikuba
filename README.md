@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Jakub Klimek
+
+I am a computer science student at the Cracow University of Technology.
 
 ### Tech & Tools Preference
 
@@ -12,7 +14,7 @@
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> </b>
   <img src="http://img.shields.io/badge/-IntelliJ IDEA-f09760?style=flat&logo=IntelliJ+IDEA&logoColor=white"> </b>
 
-<details>
+<details open>
 <summary>  Projects </summary>
 
 <br />
@@ -28,7 +30,7 @@
 
 
 
-<details align="left">
+<details>
   <summary><b>My Stats</b><br></summary>
     <div>
       <b>
