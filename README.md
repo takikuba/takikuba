@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jakub Klimek
 
-I am a computer science student at the Cracow University of Technology.
+As a computer science graduate, I am pursuing a master's degree in Data Science at the Cracow University of Technology.
 
 ### Tech & Tools Preference
 
@@ -20,7 +20,7 @@ I am a computer science student at the Cracow University of Technology.
 <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=takikuba&repo=Nonograms)](https://github.com/takikuba/Nonograms.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=takikuba&repo=JS_BattleShip)](https://github.com/takikuba/JS_BattleShip.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Camillo-commits&repo=EwolutionaryAlgorithmApp)](https://github.com/Camillo-commits/EwolutionaryAlgorithmApp)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=takikuba&repo=WDPAI)](https://github.com/takikuba/WDPAI.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=takikuba&repo=Calculator)](https://github.com/takikuba/Calculator.git)
 
